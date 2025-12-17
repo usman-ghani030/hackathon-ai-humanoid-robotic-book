@@ -1,6 +1,5 @@
 {
+  "version": 2,
   "framework": "docusaurus",
-  "buildCommand": "cd book && npm install && npm run build:vercel",
-  "outputDirectory": "book/build",
-  "installCommand": "cd book && npm install"
+  "rootDirectory": "book"
 }
