@@ -15,6 +15,5 @@
       "dest": "/index.html"
     }
   ],
-  "buildCommand": "npm run build:vercel",
-  "outputDirectory": "build"
+  "buildCommand": "npm install && npm run build:vercel"
 }
