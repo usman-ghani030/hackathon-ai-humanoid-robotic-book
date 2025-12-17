@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://spec-driven-dev.github.io',
+  url: 'https://hackathon-ai-humanoid-robotic-book.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages: https://<username>.github.io/<repository>/
-  baseUrl: '/hackathon-book',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'spec-driven-dev', // Usually your GitHub org/user name.
