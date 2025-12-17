@@ -87,7 +87,7 @@ const config = {
             items: [
               {
                 label: 'Module 1: ROS 2',
-                to: '/docs/module-1-ros2/01-ros2-nervous-system',
+                to: '/docs/module-1-ros2/ros2-nervous-system',
               },
             ],
           },
