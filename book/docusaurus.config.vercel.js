@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://hackathon-book.vercel.app',
+  url: 'https://hackathon-ai-humanoid-robotic-book.vercel.app/',
   // For Vercel deployment, use root base URL
   baseUrl: '/',
 
